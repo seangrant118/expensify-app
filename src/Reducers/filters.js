@@ -1,4 +1,4 @@
-import moment from './node_modules/moment';
+import moment from 'moment';
 
 // Filters Reducer
 

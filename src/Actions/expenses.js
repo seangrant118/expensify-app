@@ -1,4 +1,4 @@
-import uuid from './node_modules/uuid';
+import uuid from 'uuid';
 
 // ADD_EXPENSE
 export const addExpense = (
