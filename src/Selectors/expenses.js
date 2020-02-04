@@ -1,4 +1,4 @@
-import moment from 'moment';
+import moment from './node_modules/moment';
 
 // Get visible expenses
 
