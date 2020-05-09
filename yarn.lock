@@ -964,8 +964,8 @@ brace-expansion@^1.1.7:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
-braces@^1.8.2:
-  version "1.8.5"
+braces@^2.3.1:
+  version "2.3.1"
   resolved "https://registry.yarnpkg.com/braces/-/braces-1.8.5.tgz#ba77962e12dff969d6b76711e914b737857bf6a7"
   dependencies:
     expand-range "^1.8.1"
@@ -5329,8 +5329,8 @@ tar-pack@^3.4.0:
     tar "^2.2.1"
     uid-number "^0.0.6"
 
-tar@^2.0.0, tar@^2.2.1:
-  version "2.2.1"
+tar@^2.0.0, tar@^2.2.2:
+  version "2.2.2"
   resolved "https://registry.yarnpkg.com/tar/-/tar-2.2.1.tgz#8e4d2a256c0e2185c6b18ad694aec968b83cb1d1"
   dependencies:
     block-stream "*"
